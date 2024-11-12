@@ -20,6 +20,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+![Screenshot 2024-11-12 205259](https://github.com/user-attachments/assets/e5d6f3d9-50cf-4d26-9c75-ed72d9abab50)
 
  
 ## Program
@@ -54,6 +55,9 @@ else:
 print("---------------------------------------------------------------")
 ```
 ## Output :
+
+![Screenshot 2024-11-12 205348](https://github.com/user-attachments/assets/a20ed923-4eb2-408d-accb-97f12e3258b4)
+
 
 ## Result :
 
